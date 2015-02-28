@@ -8,3 +8,5 @@
             lang.php
           en/
             lang.php
+
+Перевод самой CMS можно найти [тут](https://github.com/OctoberCMSru/October-Russian-Language).
